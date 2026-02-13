@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "node index.js",
-    "node": "node --test"
+    "test": "node --test"
   },
   "dependencies": {
     "express": "^4.18.2"
